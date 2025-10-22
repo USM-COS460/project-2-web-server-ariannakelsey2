@@ -1,7 +1,7 @@
 ## COS 460/540 - Computer Networks
 # Project 2: HTTP Server
 
-# <<Arianna Kelsey>>
+# Arianna Kelsey
 
 This project is written in Java on macOS.
 
