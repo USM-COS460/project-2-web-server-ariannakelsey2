@@ -97,7 +97,7 @@ class Clients implements Runnable {
 	      
 	        } else {
 	        	 int code = 404;
-	        	 String status = "Not Found";
+	        	 String status = "File Not Found";
 	        	
 
 	        	 String body = "<html><body><h1>" + code + " " + status + "</h1><p>" + "</p></body></html>";
